@@ -46,4 +46,3 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 ## 3. Tecnologias Utilizadas✅ 
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-
